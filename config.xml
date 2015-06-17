@@ -19,10 +19,7 @@
         <author href="http://www.webflax.in/" email="adityakumar.cse16@gmail.com">
         ADITYA KUMAR
         </author>
-		<widget ...>
-      <gap:plugin name="com.purplebrain.adbuddiz.sdk" source="plugins.cordova.io" />
-   </widget>
-<gap:plugin name="org.apache.cordova.splashscreen" />
+		
 		
 		<icon src="favicon.png" />
     <icon src="favicon.png"   gap:platform="android"    gap:density="ldpi" />
